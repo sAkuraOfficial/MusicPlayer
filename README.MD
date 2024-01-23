@@ -1,6 +1,7 @@
 # 从零搭建跨平台音乐播放器
 
 项目地址:https://github.com/sAkuraOfficial/MusicPlayer
+网盘地址:https://pan.baidu.com/s/1A-DaeHDZWS5oX6URTmjnkw 提取码: 5n7s 
 
 ## 第一节课-创建简单窗口
 
